@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Korbad
+- I have a PhD in Nuclear Physics from Iowa State University
+- I have a developmental disability (ADHD)
 - 👀 I’m interested in high-energy physics, artificial intelligence, statistics, and hollistic process automation and optimization
-- 🌱 I’m currently learning neuroscience and its relationships to machine learning techniques
+- 🌱 I’m currently learning neuroscience and its analogs to machine-learning techniques
 - 🧮 I’m looking to developing my skills in devops and containerization
-- 📫 How to reach me: korbad.com (korbad@gmail.com)
+- 📫 How to reach me: https://www.linkedin.com/in/joshpperry/ or korbad.com
