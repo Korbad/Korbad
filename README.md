@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Korbad
+- 👀 I’m interested in high-energy physics, artificial intelligence, statistics, and hollistic process automation and optimization
+- 🌱 I’m currently learning neuroscience and its relationships to machine learning techniques
+- 🧮 I’m looking to developing my skills in devops and containerization
+- 📫 How to reach me: korbad.com (korbad@gmail.com)
