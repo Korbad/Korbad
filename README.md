@@ -2,6 +2,6 @@
 - I have a PhD in Nuclear Physics from Iowa State University
 - I have a developmental disability (ADHD)
 - 👀 I’m interested in high-energy physics, artificial intelligence, statistics, and hollistic process automation and optimization
-- 🌱 I’m currently learning neuroscience and its analogs to machine-learning techniques
-- 🧮 I’m looking to developing my skills in devops and containerization
+- 🌱 I’m currently learning to use ansible, proxmox, and kubernetes to build a dynamic homelab
+- 🧮 I’m developing my skills in ansible, rust, and site reliability engineering
 - 📫 How to reach me: https://www.linkedin.com/in/joshpperry/ or korbad.com
